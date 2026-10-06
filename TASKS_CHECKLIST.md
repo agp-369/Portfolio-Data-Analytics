@@ -17,3 +17,18 @@
 4. Wait 30–60s. Test https://agp-369.github.io/Portfolio-Data-Analytics/
 5. Tick: [ ] Live URL loads (no 404)
 
+
+## P0 — 2. TABLEAU PUBLIC DASHBOARD (45 MIN)
+
+**Goal:** Show cleaning→interactive visuals for non-technical stakeholders.
+
+### Steps
+1. [ ] Open https://public.tableau.com/app/discover (free)
+2. [ ] Load project-2-nashville-housing-cleaning/data/nashville_clean.csv
+3. [ ] Create KPIs: Total Sales, Avg Price, Properties Sold
+4. [ ] Charts: Sales by City, Sales Over Time (use sale_date_converted), SoldAsVacant, Land Use
+5. [ ] Add filters: City, Year, Land Use (slicers)
+6. [ ] Publish → Copy Public URL
+7. [ ] Add URL + screenshot to project-2-nashville-housing-cleaning/dashboards/ + README
+8. [ ] Add link in main README.md
+9. [ ] Tick: [ ] Live Tableau link clickable & working
