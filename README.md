@@ -85,3 +85,9 @@ BCA graduate (2026), MCA student (IGNOU, distance). Results-driven Data Analyst 
 *"Great analysis doesn't just show numbers—it tells the story behind them."*
 
 </div>
+
+
+## 📄 Resume
+
+[View Resume](./RESUME.md) | [Download PDF](./assets/Abhishek_Gupta_Resume.pdf)
+
