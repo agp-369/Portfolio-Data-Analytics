@@ -1,9 +1,5 @@
-﻿## 📈 Why This Portfolio Stands Out
+﻿## 🚀 Additional Work (Suggestions Implemented)
 
-- **Evidence-Based Insights** – Every project goes beyond code to extract **real, testable findings** (e.g., Budget–Revenue r≈0.73) with clear interpretations.
-- **End-to-End & Reproducible** – Raw data → cleaning/validation → EDA → analysis → visuals → exportables. Each folder runs independently with documented steps.
-- **Real-World Datasets** – Uses credible sources (Our World in Data, TMDB, real estate, YouTube) mirroring analyst work in industry.
-- **Methodology First** – Projects document *how* and *why*, not just *what*. Includes assumptions, cleaning rationale, and limitations.
-- **Visual Storytelling** – Publication-quality charts embedded to show patterns, not just tables.
-- **Portfolio-Grade Presentation** – Clean, GitHub Pages-ready with navigation, resume (MD+PDF), and recruiter-friendly structure.
-- **Pragmatic + Technical** – Combines SQL analytics + Python EDA + systems awareness (Linux/Docker) for well-rounded problem-solving.
+- **Interactive Dashboard (Tableau Public)** – [Coming Soon: Nashville Sales Dashboard](#) _(Add your Tableau Public URL after publishing)_. Demonstrates cleaning → interactive visuals for non-technical stakeholders.
+- **API + Automation + ML (Original)** – [`project-5-api-automation-ml/`](./project-5-api-automation-ml/) _(planned)_ – Pull live data via API, clean, train a basic ML model, containerized with Docker. Shows end-to-end automation + predictive thinking.
+- **Colab-Ready Notebooks** – TMDB notebook includes "Open in Colab" badge to run instantly in browser.
