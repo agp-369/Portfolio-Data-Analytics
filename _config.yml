@@ -1,0 +1,33 @@
+name: "Portfolio - Data Analytics"
+title: null
+description: "Data Analyst Portfolio - SQL, Python, EDA, Dashboard Projects by Abhishek Gupta"
+lang: en
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+  - jekyll-remote-theme
+  - jekyll-sitemap
+  - jekyll-feed
+
+show_downloads: false
+google_analytics: null
+
+author:
+  name: Abhishek Gupta
+  email: abhishekagp0489@gmail.com
+
+# Hide the date in Jekyll minima/cayman if any
+minima:
+  date_format: ""
+
+# Custom settings
+exclude:
+  - "*.xlsx"
+  - "*.db"
+  - "*.ipynb_checkpoints"
+  - "data_raw/"
+  - "**/.ipynb_checkpoints"
+  - "node_modules"
+  - "vendor"
+  - ".gitignore"
+  - "Gemfile"
+  - "Gemfile.lock"
